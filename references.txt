@@ -1,0 +1,12 @@
+/***********************************************************************
+ * =: Maze Solving
+ ***********************************************************************/
+
+  Written/online sources used:
+    1. Description of the homework "Maze Solving" CSC161
+ <https://weinman.cs.grinnell.edu/courses/CSC161/2021F/homework/maze-queue.shtml>
+    2. Makefile example from "Program Management" CSC161 reading
+    <https://weinman.cs.grinnell.edu/courses/CSC161/2021F/modules/lists/readings/program-management.shtml>
+
+ Help obtained:
+      Jerod Weinman
